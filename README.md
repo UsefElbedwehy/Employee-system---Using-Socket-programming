@@ -3,7 +3,7 @@
 
 <h1>Welcome to My Project</h1>
 
-<p>This project is an example of [project description]. Below, you'll find instructions on how to clone this repository and start using it.</p>
+<p>This project is an example of Empolyee System Using Socket Programming. Below, you'll find instructions on how to clone this repository and start using it.</p>
 
 <img src="images/EmpSystem.drawio.png" alt="plan" >
 
@@ -17,7 +17,7 @@
 </ol>
 
 <pre>
-<code>git clone https://github.com/UsefElbedwehy/iti-4m-IOS.git</code>
+<code>git clone git@github.com:UsefElbedwehy/Employee-system---Using-Socket-programming.git</code>
 </pre>
 
 <h2>Contact</h2>
